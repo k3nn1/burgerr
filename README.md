@@ -9,3 +9,6 @@ In this assignment, you'll create a burger logger with MySQL, Node, Express, Han
 * Type in whatever burger you want to order in the white box. Then click Submit.
 * Your burger will now be displayed above the box to be devoured. 
 * You can enter as much burgers as you want.
+
+## Home Page Screenshot
+* ![home Page screenshot] (public/assets/img/homepage.PNG)
