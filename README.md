@@ -11,4 +11,4 @@ In this assignment, you'll create a burger logger with MySQL, Node, Express, Han
 * You can enter as much burgers as you want.
 
 ## Home Page Screenshot
-* ![home Page screenshot](public/assets/img/homepage.png?raw=true)
+* ![home Page screenshot](https://github.com/k3nn1/burger/public/assets/img/homepage.png?raw=true)
