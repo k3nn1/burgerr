@@ -12,8 +12,8 @@ else {
         user: "root",
         password: "root",
         database: "burgers_db"
-    })
-}
+    });
+};
 
 // Make connection
 connection.connect(function(err) {
